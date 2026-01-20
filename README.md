@@ -77,5 +77,33 @@ Refer to the notebook for installation and execution details.
 
 ---
 
-## 📁 Repository Structure
+## 🎯 Applications
+
+- Virtual fashion try-on
+- Pose-aware image editing
+- Digital content creation
+- Research on parameter-efficient fine-tuning
+- Generative AI under limited compute budgets
+
+---
+
+## 📄 Related Paper
+
+**Adaptive Text-Driven Human Pose Manipulation using LoRA-Augmented InstructPix2Pix Pipelines**  
+School of Computer Science, Bina Nusantara University
+
+---
+
+## 👥 Authors
+
+- Steve Febryanto Tan  
+- Nathanael Wilson Angelo  
+- Valdrich Eagan  
+- Gabriel Asael Tarigan  
+
+---
+
+## 📜 License
+
+This project is intended for **academic and research purposes**.
 
