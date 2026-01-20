@@ -1,12 +1,11 @@
-# human-pose-manipulation
+# Adaptive Text-Driven Human Pose Manipulation  
+## LoRA-Augmented InstructPix2Pix Pipelines
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b1nXrFfXnuIDzx3F7nxrcH4CUK7ycDGC?usp=sharing)
 
 ⚠️ Note:
 If the notebook cannot be rendered directly on GitHub,
 please open it using Google Colab via the badge above.
-
-# Adaptive Text-Driven Human Pose Manipulation  
-## LoRA-Augmented InstructPix2Pix Pipelines
 
 This repository implements a **resource-efficient text-guided human pose manipulation system** based on **Stable Diffusion v1.5** and **InstructPix2Pix**, enhanced with **Low-Rank Adaptation (LoRA)** for parameter-efficient fine-tuning.
 
