@@ -10,7 +10,7 @@ please open it using Google Colab via the badge above.
 
 This repository implements a **resource-efficient text-guided human pose manipulation system** based on **Stable Diffusion v1.5** and **InstructPix2Pix**, enhanced with **Low-Rank Adaptation (LoRA)** for parameter-efficient fine-tuning.
 
-The primary goal of this project is to **edit existing images**—specifically transforming human poses (e.g., *standing → sitting*)—while **preserving subject identity, clothing details, and background consistency**, even under **limited computational resources** such as Google Colab GPUs.
+The primary goal of this project is to **edit existing images** specifically transforming human poses (e.g., *standing → sitting*) while **preserving subject identity, clothing details, and background consistency**, even under **limited computational resources** such as Google Colab GPUs.
 
 ---
 
